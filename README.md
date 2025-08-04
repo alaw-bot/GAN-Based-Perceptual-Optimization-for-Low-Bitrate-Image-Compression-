@@ -17,7 +17,8 @@ This project implements a GAN-based image compression system that leverages Mobi
 ✅ Colab Friendly: One-click run on Google Colab with minimal setup
 
 📸 Architecture
-<img width="379" height="278" alt="image" src="https://github.com/user-attachments/assets/9c4bc593-7430-4f22-9047-20e67ea1ba03" />
+<img width="577" height="446" alt="image" src="https://github.com/user-attachments/assets/2bfdaa99-f46c-47a4-a8fc-51c12fce1759" />
+
 
 
 🧪 Datasets
