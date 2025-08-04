@@ -17,15 +17,8 @@ This project implements a GAN-based image compression system that leverages Mobi
 ✅ Colab Friendly: One-click run on Google Colab with minimal setup
 
 📸 Architecture
-Input Image
-     ↓
-  [Encoder] ──> Latent Vector (.npy)
-     ↓              │
-  [Generator] ◄─────┘
-     ↓
-Reconstructed Image
-     ↓
-[Discriminator + Losses]
+<img width="379" height="278" alt="image" src="https://github.com/user-attachments/assets/9c4bc593-7430-4f22-9047-20e67ea1ba03" />
+
 
 🧪 Datasets
 Kodak Image Dataset
